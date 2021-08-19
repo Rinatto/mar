@@ -1,0 +1,19 @@
+body {
+    
+    color: #AE7C78; 
+}
+header {
+    background-color: #E5E5E5;
+}
+main {
+    background: #E5E5E5;
+}
+
+.sale {
+    color: #FFFFFF;
+    background: #AE7C78;
+}
+footer{
+    color: #FFFFFF;
+    background: #AE7C78;
+}
